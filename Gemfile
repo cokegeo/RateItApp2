@@ -40,7 +40,7 @@ gem 'devise', '~> 4.3'
 # to upload images
 gem 'carrierwave', '~> 1.2', '>= 1.2.1'
 # for creating forms
-gem 'simple_form', '~> 3.5'
+gem 'simple_form', '~> 5.0'
 # A wrapper for reading image files IMPORTANT: this requires of ImageMagick installed on the user's computer. Installed from https://imagemagick.org/
 gem "mini_magick"
 # For logging impressions
