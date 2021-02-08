@@ -38,7 +38,7 @@ gem "bulma-rails", "~> 0.6.1"
 # For generating model and controllers
 gem 'devise', '~> 4.3'
 # to upload images
-gem 'carrierwave', '~> 1.2', '>= 1.2.1'
+gem 'carrierwave', '~> 1.3'
 # for creating forms
 gem 'simple_form', '~> 3.5'
 # A wrapper for reading image files IMPORTANT: this requires of ImageMagick installed on the user's computer. Installed from https://imagemagick.org/
